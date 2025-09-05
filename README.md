@@ -13,7 +13,8 @@
   
 ## 🎓 Education:
 🏫 Karachi Institute of Economics & Technology (KIET) University – Bachelor's in Computer Science (BSCS)
-🎯 CGPA: 3.75 / 4.00
+
+🎯CGPA: 3.75 / 4.00
 
 ## 🏆 Achievements:
 - 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
