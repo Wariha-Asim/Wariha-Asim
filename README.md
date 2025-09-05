@@ -3,7 +3,7 @@
 🚀 I build and understand ML models, skilled in supervised & unsupervised learning, data preprocessing, and model evaluation.  
 🤖 I leverage Python AI/ML libraries like NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and exploring CNNs, TensorFlow & PyTorch.  
 💼 I am skilled in n8n for workflow automation, integrating AI tools to enhance productivity.  
-💻 Front-End Development & Web Interfaces: Experienced in building responsive web applications with HTML, CSS, JavaScript, React.js
+💻 Front-End Development: Experienced in building responsive web applications with HTML, CSS, JavaScript, React.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/warihaasim) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wariha-Asim) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:warihaasim@gmail.com)  
@@ -17,4 +17,4 @@
 
 ## 🏆 Achievements:
 - 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
-- 🚀 Completed Machine Learning Course with Python from Simplilearn, gaining practical knowledge in ML models, data preprocessing, and model evaluation (Issued Aug 2025)
+- 🚀 Completed Machine Learning Course with Python from Simplilearn, earning a certificate (Issued Aug 2025),gaining practical knowledge in ML models, data preprocessing, and model evaluation
