@@ -18,4 +18,4 @@
 
 ## 🏆 Achievements:
 - 🎓 Top Scorer in Matriculation – 97.29%, recognized for outstanding academic performance
-- 🚀 Completed Machine Learning Course with Python from Simplilearn, earning a certificate (Issued Aug 2025),gaining practical knowledge in ML models, data preprocessing, and model evaluation
+- 🚀 Participated in multiple Kaggle competitions, uploaded publicly documented ML notebooks, actively contributed on forums earning several badges, and completed certified ML courses.
