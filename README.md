@@ -1,12 +1,8 @@
 <h1 align="center"><strong> Waariha Asim Sheikh</strong></h1>
 
 <p align="center">
-  <kbd>AI Automation Engineer</kbd>
-  <kbd>Artificial Intelligence Engineer</kbd>
-  <kbd>Generative AI Engineer</kbd>
-  <kbd>LLM Applications</kbd>
+  <strong>Artificial Intelligence Engineer | AI Automation Engineer | Generative AI Engineer</strong>
 </p>
-```
 
 <p align="center">
   <a href="https://linkedin.com/in/waarihaasim">
