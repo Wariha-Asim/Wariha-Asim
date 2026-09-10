@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hi, I'm <strong>Waariha Asim Sheikh</strong></h1>
+<h1 align="center">✨ It's Me <strong>Waariha Asim Sheikh</strong></h1>
 
 <p align="center">
   <strong>Artificial Intelligence Engineer | AI Automation Engineer | Generative AI Engineer</strong>
@@ -23,11 +23,12 @@
 
 # 💫 About Me
 
-- 🤖 **Artificial Intelligence Engineer at LA Consulting Corporation**, building production-ready LLM-powered applications, conversational AI systems, AI agents, and intelligent workflow automation.
-- 🚀 **Led the end-to-end development** of **[GlotSpeak](https://www.glotspeak.com)** — a live AI-powered language learning platform featuring multilingual AI conversations, AI interview simulation, Speech Recognition, and Text-to-Speech (TTS) using React.js, TypeScript, Node.js, MongoDB, Gemini API, and Groq API.
-- ⚙️ Designed and deployed **10+ AI-powered n8n automation workflows** integrating Google Gemini, CRM platforms, and Google Workspace APIs.
-- 💡 Passionate about **Generative AI, Prompt Engineering, AI Automation, Voice AI, NLP, Machine Learning, and Full-Stack AI Application Development.**
-- 🎓 Pursuing a **BS in Computer Science** at **KIET** (CGPA: **3.76/4.00**) | **40% Merit Scholarship**.
+* 🤖 **Artificial Intelligence Engineer at LA Consulting Corporation**, engineering **LLM-powered applications, AI agents, conversational AI, and intelligent automation systems** for real-world use cases.
+* 🚀 **Led the end-to-end development of** [**GlotSpeak**](https://www.glotspeak.com/) — a live AI-powered language learning and interview platform featuring **multilingual conversational AI, AI interview simulation, Speech Recognition, and Text-to-Speech**, onboarding **75+ users**.
+* ⚙️ **Engineered and deployed 20+ AI automation workflows** using **n8n, Gemini, Groq, CRM systems, Google Workspace APIs, and Retell AI**, automating lead management, reporting, outreach, and business processes.
+* 🧠 **Built and delivered production-grade GenAI solutions** across **RAG, AI Agents, Multimodal AI, and NLP**, leveraging **Python, LangChain, FastAPI, ChromaDB, and modern AI stacks**.
+* 🎓 Pursuing a **BS in Computer Science at KIET** with a **3.76/4.00 CGPA**.
+
 
 ---
 
