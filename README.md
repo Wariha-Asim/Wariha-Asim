@@ -31,13 +31,14 @@
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements & Contributions
 
-- 🤖 **Top Contributor** — Elevvo Pathways NLP Internship.
-- 💻 **Top-performing student in core Computer Science and programming courses** at **KIET**.
-- 🎓 Awarded a **40% Merit Scholarship** at **KIET** for consistent academic excellence.
-- 📊 Active **Kaggle** contributor with Machine Learning notebooks, competitions, certifications, and community badges.
-- 🥇 **Top Scorer in Matriculation**, achieving **97.29%** and recognized for outstanding academic performance.
+* 🧠 **20 Anthropic Academy Certifications** — Completed certifications across **AI Fluency, Claude, Claude Code, Claude API, MCP, Agent Skills, Subagents, and AI development platforms**.
+* 🚀 **4+ AI-Focused Internships** — Hands-on experience across **AI Engineering, Generative AI, Backend AI Engineering, Machine Learning, and NLP**, delivering practical projects and technical solutions.
+* 🌟 **Top Contributor — Elevvo Pathways NLP Internship** — Recognized for strong participation, project execution, and technical contributions.
+* 📊 **Kaggle Contributor** — Built and shared **Machine Learning notebooks**, participated in competitions, earned certifications, and achieved community badges.
+* 🎓 **Academic Excellence** — Top-performing student in core **Computer Science and programming courses at KIET**, awarded a **40% Merit Scholarship**, and achieved **97.29% in Matriculation** with outstanding academic performance.
+
 
 ---
 
