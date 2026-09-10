@@ -27,7 +27,7 @@
 * 🚀 **Led the end-to-end development of** [**GlotSpeak**](https://www.glotspeak.com/) — a live AI-powered language learning and interview platform featuring **multilingual conversational AI, AI interview simulation, Speech Recognition, and Text-to-Speech**, onboarding **75+ users**.
 * ⚙️ **Engineered and deployed 20+ AI automation workflows** using **n8n, Gemini, Groq, CRM systems, Google Workspace APIs, and Retell AI**, automating lead management, reporting, outreach, and business processes.
 * 🧠 **Built and delivered production-grade GenAI solutions** across **RAG, AI Agents, Multimodal AI, and NLP**, leveraging **Python, LangChain, FastAPI, ChromaDB, and modern AI stacks**.
-* 🎓 Pursuing a **BS in Computer Science at KIET** with a **3.76/4.00 CGPA**.
+* 🎓 Pursuing a **Bachelor's of Science in Computer Science (BSCS) at KIET** with a **3.76/4.00 CGPA**.
 
 
 ---
@@ -54,13 +54,6 @@
 | ![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge\&logo=mongodb\&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge\&logo=postgresql\&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge\&logo=sqlite\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-111827?style=for-the-badge\&logo=mysql\&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge\&logo=firebase\&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge\&logo=supabase\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge\&logo=docker\&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge\&logo=vercel\&logoColor=white)                                                                                                                                                                                  | ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge\&logo=github\&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge\&logo=githubactions\&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-111827?style=for-the-badge\&logo=docker\&logoColor=white) ![Swagger/OpenAPI](https://img.shields.io/badge/Swagger%2FOpenAPI-111827?style=for-the-badge\&logo=swagger\&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge\&logo=streamlit\&logoColor=white)                                                                                                                                                                                                         |
 
 ----
-
-## 🎓 Education
-
-- 🏫 **Karachi Institute of Economics & Technology (KIET)** – Bachelor's of Science in Computer Science (BSCS)
-- 🎓 **CGPA:** **3.76 / 4.00**
-
----
 
 # 📊 GitHub Activity
 
