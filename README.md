@@ -1,4 +1,4 @@
-<h1 align="center">✨ It's Me <strong>Waariha Asim Sheikh</strong></h1>
+<h1 align="center"><strong> Waariha Asim Sheikh</strong></h1>
 
 <p align="center">
   <strong>Artificial Intelligence Engineer | AI Automation Engineer | Generative AI Engineer</strong>
